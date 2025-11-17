@@ -1,0 +1,24 @@
+Byte-compiled Python files
+
+pycache/
+*.pyc
+
+Operating System files
+
+.DS_Store
+
+Virtual environments
+
+venv/
+env/
+
+IDE files (optional, customize as needed)
+
+.idea/
+*.vscode/
+
+Model Artifacts (Crucial: DO NOT commit the trained model)
+
+*.joblib
+*.pkl
+salary_predictor_model_real_v4.joblib
