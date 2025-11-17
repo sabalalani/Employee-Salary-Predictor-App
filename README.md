@@ -4,6 +4,10 @@ This is a Streamlit web application designed to predict an employee's Salary bas
 
 The model is trained automatically upon startup using the provided Salary_Data.csv file, eliminating the need for manual training steps.
 
+Link to the live demo: 
+https://employee-salary-predictor-app-r7pjboyernukjf5o6atyeu.streamlit.app/
+
+
 Data and Model
 
 Data Source: Salary_Data.csv (Must be present in the project root directory).
